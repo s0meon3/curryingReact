@@ -8,5 +8,7 @@ import React from 'react';
 //      -value: Number that will be added to the counter.
 
 export default function Button(props) {
-	return <button onClick={() => props.handleState(props.value)}>{props.text}</button>;
+	return (
+		<button onClick={() => props.handleState(props.value)}>{props.text}</button>
+	);
 }
