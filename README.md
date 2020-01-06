@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This project refers to a post in [dev.to](dev.to), check it out [here](https://dev.to/s0meon3/currying-state-handlers-in-react-2ap1)
+
 ## Available Scripts
 
 In the project directory, you can run:
